@@ -1,5 +1,5 @@
 #Notas
 
 
-Repositorio de customs hooks para uso futuro
+Repositorio de customs hooks y utilities para uso futuro
 
